@@ -1,5 +1,5 @@
 {
-  "sensor_id_idx"     : HOBO,
+  "HOBO"     : 0,
   "timestamp_idx"     : 1,
   "timestamp_format"  : "%d-%m-%Y %H:%M:%S",
   "timestamp_timezone": "Europe/Zurich",

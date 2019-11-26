@@ -1,5 +1,4 @@
 {
-  "sensor_id_idx"     : 0,
   "sensor_id_idx"     : HOBO,
   "timestamp_idx"     : 1,
   "timestamp_format"  : "%d-%m-%Y %H:%M:%S",
